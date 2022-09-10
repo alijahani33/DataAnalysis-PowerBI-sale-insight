@@ -7,4 +7,9 @@ POWER BI
 - Revenue/year
 - total profit margin 
 - ...
-
+#Key Insights
+![predict web page](images/a2.png) 
+#Profit Analysis
+![predict web page](images/a2.png) 
+#Performance Insights
+![predict web page](images/a2.png) 
