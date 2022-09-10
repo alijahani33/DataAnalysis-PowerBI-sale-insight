@@ -8,9 +8,9 @@ POWER BI
 - total profit margin 
 - ...
 
-#Key Insights
+# Key Insights
 ![predict web page](images/bi2.png) 
-#Profit Analysis
+# Profit Analysis
 ![predict web page](images/bi1.png) 
-#Performance Insights
+# Performance Insights
 ![predict web page](images/bi3.png) 
